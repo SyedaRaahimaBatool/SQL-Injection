@@ -35,11 +35,9 @@ Steps involved are:
 ## Main consequences of SQL Injection
 
 | Confidentiality | SQL databases generally contains sensitive data, so loss of confidentiality is a big problem.   |
-| :---:   | :---: |
+| :---   | :--- |
 | Authentication | If poor SQL commands are used to check user names and passwords, authentication can be compromised.   |
-| :---:   | :---: |
 | Authorization | SQL databases generally contains sensitive data, so loss of confidentiality is a big problem.   |
-| :---:   | :---: |
 | Integrity | If poor SQL commands are used to check user names and passwords, authentication can be compromised.   |
 
 
