@@ -66,3 +66,10 @@ SQL injection vulnerability is a frequent programming error and it’s discovere
 7. Keeping database credentials separate and encrypted
 If you are considering where to store your database credentials, also consider how much damaging it can be if it falls into the wrong hands. So always store your database credentials in a separate file and encrypt it securely to make sure that the attackers can’t benefit much.
 Also, don’t store sensitive data if you don’t need it and delete information when it’s no longer in use.
+
+## Conclusion
+*	SQL Injection is a dangerous vulnerability
+*	Transform a normal SQL call to a malicious call
+*	Leads to unauthorized access, change or delete data and data stolen
+*	All programming languages and all SQL databases are potentially vulnerable
+
